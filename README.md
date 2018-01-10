@@ -5,10 +5,13 @@ to serve an API
 dependency: 
 
 
-node.js 
+1. node.js 
 
-express: 
+2. express: 
 ```npm install express --save```
 
-nodemon for auto restart server everytime a save on server.js is done
+3. nodemon for auto restart server everytime a save on server.js is done
 ```npm install nodemon -g```
+
+To Start the server:
+```nodemon server.js ```
