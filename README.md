@@ -9,12 +9,12 @@ dependency:
 
 2. express: 
 
-```npm install express --save```
+  ```npm install express --save```
 
 3. nodemon for auto restart server everytime a save on server.js is done
 
-```npm install nodemon -g```
+  ```npm install nodemon -g```
 
 To Start the server:
 
-```nodemon server.js ```
+  ```nodemon server.js ```
