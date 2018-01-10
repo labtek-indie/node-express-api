@@ -8,6 +8,7 @@ dependency:
 node.js 
 
 express: 
-```bash 
-npm install express --save
-```
+```bash npm install express --save```
+
+nodemon for auto restart server everytime a save on server.js is done
+```bash npm install nodemon -g```
